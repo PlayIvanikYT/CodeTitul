@@ -1,0 +1,9 @@
+name: CodeTitul
+version: '1.0'
+main: com.playivanikyt.codetitul.CodeTitul
+api-version: '1.16'
+commands:
+  customtitul:
+    description: Основная команда для управления плагином
+    usage: /customtitul
+    aliases: [ctitul]
